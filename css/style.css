@@ -233,6 +233,10 @@
 }
 
 @media all and (max-width: 991px) {
+    .header{
+        top: 30px;
+    }
+    
     .navbar-desktop {
         display: none;
     }
@@ -246,6 +250,9 @@
 }
 
 @media all and (max-width: 575px) {
+    .header{
+        top: 15px;
+    }
     .nav-right-part {
         right: 0;
     }
