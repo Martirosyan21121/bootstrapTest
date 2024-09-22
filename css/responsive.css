@@ -1,3 +1,20 @@
+
+
+
+
+@media all and (max-width: 1440px){
+    .header .nav-container {
+        min-height: 80px;
+    }
+}
+
+
+@media all and (max-width: 767px) {
+    .responsive-mobile-menu {
+        margin-top: 0;
+    }
+}
+
 @media all and (max-width: 575px) {
     .responsive-mobile-menu {
         right: 0;
@@ -17,8 +34,3 @@
     }
 }
 
-@media all and (max-width: 767px) {
-    .responsive-mobile-menu {
-        margin-top: 0;
-    }
-}
