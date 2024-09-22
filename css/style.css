@@ -226,7 +226,7 @@
 
 @media all and (max-width: 991px) {
     .header{
-        top: 20px;
+        top: 15px;
     }
     
     .navbar-desktop {
@@ -250,7 +250,7 @@
 
 @media all and (max-width: 575px) {
     .header{
-        top: 10px;
+        top: 0;
     }
     .nav-right-part {
         right: 0;
